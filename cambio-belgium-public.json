@@ -1,0 +1,127 @@
+{
+    "help": "https://www.transportdata.be/api/3/action/help_show?name=package_show",
+    "success": true,
+    "result": {
+        "notes_translated": {
+            "fr": "Contient une liste de stations incluant les types de v\u00e9hicules pr\u00e9sents: Nom, Adresse, G\u00e9olocalisation, Types de v\u00e9hicules",
+            "de": "Contains a list of stations including the available vehicle types at these locations: Name, Address, Geo-location, Vehicle types",
+            "nl": "Bevat een lijst van standplaatsen inclusief de aanwezige types voertuigen: Naam, Adres, Geolocatie, Voertuigtypes",
+            "en": "Contains a list of stations including the available vehicle types at these locations: Name, Address, Geo-location, Vehicle types"
+        },
+        "cont_res": "Data set",
+        "maintainer": null,
+        "relationships_as_object": [],
+        "private": false,
+        "maintainer_email": null,
+        "num_tags": 1,
+        "frequency": "On occurence",
+        "license_title": "Other (Open)",
+        "contact_name": "Ward Docx",
+        "publisher_name": "Ward Docx",
+        "id": "54a44230-0aa1-4e7b-8d26-d96f1b07f605",
+        "metadata_created": "2020-03-11T16:15:41.052534",
+        "p_tel": "+3292423235",
+        "temporal_end": "",
+        "metadata_modified": "2020-04-09T07:38:50.541756",
+        "author": null,
+        "author_email": null,
+        "qual_ass": {
+            "fr": "",
+            "de": "",
+            "nl": "",
+            "en": ""
+        },
+        "theme": "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+        "temporal_start": "2020-03-11T17:08:00",
+        "state": "active",
+        "version": null,
+        "publisher_url": "https://www.cambio.be",
+        "license_id": "other-open",
+        "type": "dataset",
+        "resources": [
+            {
+                "cache_last_updated": null,
+                "package_id": "54a44230-0aa1-4e7b-8d26-d96f1b07f605",
+                "resource_language": "http://publications.europa.eu/resource/authority/language/ENG",
+                "id": "696ed08a-e98f-48ec-80d1-f27525b1fdd5",
+                "size": null,
+                "acc_mod": "OpenAPI",
+                "acc_desc": {
+                    "fr": "",
+                    "de": "",
+                    "nl": "",
+                    "en": ""
+                },
+                "acc_con": "Pull",
+                "state": "active",
+                "hash": "",
+                "description": "",
+                "format": "JSON",
+                "acc_gra": "JSON Schema",
+                "mimetype_inner": null,
+                "acc_enc": "UTF-8",
+                "url_type": null,
+                "acc_int": "http://publications.europa.eu/resource/authority/file-type/MSG_HTTP",
+                "mimetype": null,
+                "cache_url": null,
+                "name": "Stations",
+                "created": "2020-03-11T16:17:22.280263",
+                "url": "https://cwapi.cambio-carsharing.com/pub/stations/BEL",
+                "last_modified": null,
+                "position": 0,
+                "revision_id": "5ae9c965-4f2f-4f95-ba9e-daacf442c52e",
+                "resource_type": null
+            }
+        ],
+        "publisher_email": "belgium@cambio.be",
+        "num_resources": 1,
+        "tags": [
+            {
+                "vocabulary_id": null,
+                "state": "active",
+                "display_name": "Car-sharing",
+                "id": "742758db-5e53-420c-a7b1-00c841b3f6b9",
+                "name": "Car-sharing"
+            }
+        ],
+        "spatial": "{\"type\":\"Polygon\",\"coordinates\":[[[2.526855,49.605905],[2.526855,51.415139],[6.240234,51.415139],[6.240234,49.605905],[2.526855,49.605905]]]}",
+        "p_address": "Theresianenstraat 7A, 1000 Brussel",
+        "organization": {
+            "description": "",
+            "created": "2020-03-11T11:02:40.580248",
+            "title": "cambio Belgium",
+            "name": "cambio-belgium",
+            "is_organization": true,
+            "state": "active",
+            "image_url": "https://www.cambio.be/themes/custom/epsenkaas_theme/logo.svg",
+            "revision_id": "9073880e-9247-402a-b3ab-3ace8bc1c4f0",
+            "type": "organization",
+            "id": "efea590e-7d62-4120-8962-31c0067c7d2d",
+            "approval_status": "approved"
+        },
+        "groups": [],
+        "creator_user_id": "cf83187d-ceab-4318-9c24-bfed2f7bd5c6",
+        "contract_license": "nolinoco",
+        "isopen": true,
+        "relationships_as_subject": [],
+        "publisher_org": "cambio Belgium",
+        "fluent_tags": "Car-sharing",
+        "regions_covered": [
+            "http://data.europa.eu/nuts/code/BE1",
+            "http://data.europa.eu/nuts/code/BE2",
+            "http://data.europa.eu/nuts/code/BE3"
+        ],
+        "name": "cambio-belgium",
+        "language": [
+            "http://publications.europa.eu/resource/authority/language/ENG"
+        ],
+        "url": null,
+        "notes": null,
+        "owner_org": "efea590e-7d62-4120-8962-31c0067c7d2d",
+        "title": "cambio: Stations",
+        "revision_id": "3d7d0a55-b84f-47c7-93c9-0dcf0a33e182",
+        "countries_covered": [
+            "http://publications.europa.eu/resource/authority/country/BEL"
+        ]
+    }
+}
